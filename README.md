@@ -1,1 +1,1 @@
-# Programacion-Concurrente
+# Programación Concurrente y Distribuida - Presencial
